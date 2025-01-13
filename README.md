@@ -1,3 +1,6 @@
 # Fourier-Series-Calculator
-<p>Fourier Series and power calculator is a MATLAB based application to help users visualizing frequency domain analysis.
-<br>The provided report contains a user manual and all the details about this application.</p>
+<p>The provided report contains<br>
+  i) A user manual <br>
+  ii) Theoretical background <br>
+  iii) Flowchart of the program <br>
+Give it a read for any information.</p>
